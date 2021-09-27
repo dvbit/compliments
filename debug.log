@@ -1,3 +1,17 @@
-[0916/101327.336:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
-[0916/101327.569:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
-[0111/135418.237:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+{
+    "anytime" : [
+        "Non sono abbastanzagiovane per sapere tutto.\nJ.M. Barrie",
+        "Un buon lancio farà sempre centro, \ne viceversa. \nCasey Stemgel",
+        "Nella mente del novizio ci sono molte \npossibilità, ma nella mente dell'esperto\nve ne sono poche.\nShunryu Suzuki Suzuki",
+        "Se devi chiedere\n,che cos'è il jazz,\nnon lo saprai mai.\nLouis Armstrong",
+        "Sostanzialmente, \nl'arciere mira a se stesso. \n"L'Arte Zen del tiro con L'arco",
+        "Se non riesci \na trovare la verità là dove sei,\n in quale altro luogo speri di trovarla?\nDogen",
+        "L'unico Zen che trovi in cima alle montagne \nè lo Zen che porti lassù.\n Rober M. Pirsig",
+    ],
+    "morning" : [
+    ],
+    "afternoon" : [
+    ],
+    "evening" : [
+    ]
+}
